@@ -46,7 +46,7 @@ It’s a clean, self-contained JavaScript project designed for learning, teachin
 
 ## Demo / Screenshots
 
-*Here is a demo*
+View the project [here](https://himynameismoose.github.io/maze-generator/)
 <video src="https://github.com/user-attachments/assets/fa213d27-c825-453d-abd0-b4aab4c2e477" controls muted loop width="100%" />
 
 ---
